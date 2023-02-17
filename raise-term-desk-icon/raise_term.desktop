@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+#Exec=${sdir}/raise_term.sh
+Exec=/home/ryan/scripts/raise_term.sh
+Name=raise_term
+Comment=Script to raise all term windows
+#Icon=${sdir}/icons/raise.png
+Icon=/home/ryan/scripts/icons/raise.png
